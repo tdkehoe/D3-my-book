@@ -1,3 +1,3 @@
-d3.selectAll("body")
-.append("p")
-.text("New paragraph!");
+d3.csv("food.csv", function(data) {
+console.log(data);
+});
