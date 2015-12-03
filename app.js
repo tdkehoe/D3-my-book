@@ -8,4 +8,7 @@ d3.select("body").selectAll("div")
 .style("width", function(d) {
   var barWidth = d * 5; //Scale up by factor of 5
   return barWidth + "px";
+})
+.text(function(d) {
+  return d;
 });
