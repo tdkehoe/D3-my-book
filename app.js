@@ -1,4 +1,4 @@
-d3.csv("food.csv", function(error, data) {
+d3.json("food.json", function(error, data) {
   if (error) {
     console.log(error);
   } else {
