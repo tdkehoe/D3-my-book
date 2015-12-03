@@ -9,10 +9,7 @@
 
 var dataset = [ 5, 10, 15, 20, 25 ];
 
-d3.select("body").selectAll("p")
+d3.select("body")
 .data(dataset)
-.enter()
 .append("p")
-.text(function(d) {
-  return d;
-});
+.text(dataset);
