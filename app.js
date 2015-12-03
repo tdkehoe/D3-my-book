@@ -5,6 +5,7 @@ d3.select("body").selectAll("div")
 .enter()
 .append("div")
 .attr("class", "bar")
-.style("height", function(d) {
-  return d + "px";
+.style("width", function(d) {
+  var barWidth = d * 5; //Scale up by factor of 5
+  return barWidth + "px";
 });

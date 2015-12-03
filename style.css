@@ -1,6 +1,6 @@
 div.bar {
-  display: inline-block;
-  width: 20px;
-  height: 75px; /* We'll override height later */
+  display: block;
+  height: 20px;
   background-color: teal;
+  margin-bottom: 2px;
 }
