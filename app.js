@@ -11,4 +11,7 @@ d3.select("body").selectAll("div")
 })
 .text(function(d) {
   return d;
+})
+.style("background-color", function(d) {
+  return "rgb(0, 0, " + (d * 10) + ")";
 });
