@@ -21,9 +21,8 @@ var dataset = [ 5, 10, 15, 20, 25 ];
 
 var dataset = [ 5, 10, 15, 20, 25 ];
 
-d3.data(dataset)
-.select("body")
+d3.select("body")
 .append("p")
-.text(dataset);
+.text("Hello, world.");
 
 console.log(dataset);
