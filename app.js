@@ -1,4 +1,24 @@
-var dataset = [ 5, 10, 15, 20, 25 ];
+d3.json("food.json", function(error, dataset) {
+  if (error) {
+    console.log(error);
+  } else {
+    console.log(dataset);
+    d3.select("body").selectAll("p")
+    .data(dataset)
+    .enter().append("p")
+    .text(function(d) {
+      return (d.Food + ", " + d.Deliciousness);
+    });
+  }
+});
+
+
+// d3.select("body").selectAll("p")
+// .data(dataset)
+// .enter().append("p")
+// .text(function(d) {return d;} );
+
+// var dataset = [ 5, 10, 15, 20, 25 ];
 
 // d3.select("body").selectAll("div")
 // .data(dataset)
@@ -19,10 +39,10 @@ var dataset = [ 5, 10, 15, 20, 25 ];
 
 
 
-var dataset = [ 5, 10, 15, 20, 25 ];
-
-d3.select("body")
-.append("p")
-.text("Hello, world.");
-
-console.log(dataset);
+// d3.select("body")
+// .data(dataset)
+// .enter()
+// .append("p")
+// .text(function(d) {
+//   return d;
+// });

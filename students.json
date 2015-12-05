@@ -1,0 +1,46 @@
+
+{
+  "0": {
+    "name": "Lucy",
+    "techCRUD": 10,
+    "techOOP": 5,
+    "techAuth": 7,
+    "techAngular": 3,
+    "socialBeautifulDesign": 1,
+    "socialPairProgramming": 1,
+    "socialHelpingOthers": 1,
+    "socialExtracurricularLearning": 1,
+    "socialYouMadeMeLaugh": 1,
+    "socialAskingGoodQuestions": 1,
+    "tmgmtSoloProgramming": 1,
+    "tmgmtPairProgramming": 1,
+    "tmgmtReceivingHelp": 1,
+    "tmgmtGivingHelp": 1,
+    "tmgmtReadingDocs": 1,
+    "tmgmtWritingDocs": 1
+  },
+  "1": {
+    "name": "Linus",
+    "techSkills": 1,
+    "socialSkills": 5,
+    "timeMgmtSkills": 6
+  },
+  "2": {
+    "name": "Schroeder",
+    "techSkills": 3,
+    "socialSkills": 4,
+    "timeMgmtSkills": 9
+  },
+  "3": {
+    "name": "Pig-Pen",
+    "techSkills": 9,
+    "socialSkills": 3,
+    "timeMgmtSkills": 7
+  },
+  "4": {
+    "name": "Little Red-Haired Girl",
+    "techSkills": 4,
+    "socialSkills": 6,
+    "timeMgmtSkills": 2
+  }
+}
