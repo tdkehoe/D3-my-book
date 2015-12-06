@@ -1,6 +1,5 @@
-
-{
-  "0": {
+[
+  {
     "name": "Lucy",
     "techCRUD": 10,
     "techOOP": 5,
@@ -19,28 +18,28 @@
     "tmgmtReadingDocs": 1,
     "tmgmtWritingDocs": 1
   },
-  "1": {
+  {
     "name": "Linus",
     "techSkills": 1,
     "socialSkills": 5,
     "timeMgmtSkills": 6
   },
-  "2": {
+  {
     "name": "Schroeder",
     "techSkills": 3,
     "socialSkills": 4,
     "timeMgmtSkills": 9
   },
-  "3": {
+  {
     "name": "Pig-Pen",
     "techSkills": 9,
     "socialSkills": 3,
     "timeMgmtSkills": 7
   },
-  "4": {
+  {
     "name": "Little Red-Haired Girl",
     "techSkills": 4,
     "socialSkills": 6,
     "timeMgmtSkills": 2
   }
-}
+]
