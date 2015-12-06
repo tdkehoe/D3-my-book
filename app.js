@@ -1,16 +1,36 @@
-d3.json("food.json", function(error, dataset) {
+// d3.json("food.json", function(error, dataset) {
+//   if (error) {
+//     console.log(error);
+//   } else {
+//     console.log(dataset);
+//     d3.select("body").selectAll("p")
+//     .data(dataset)
+//     .enter().append("p")
+//     .text(function(d) {
+//       return (d.Food);
+//     });
+//   }
+// });
+
+
+
+d3.json("https://bonus.ly/api/v1/users?access_token=296b9968b8c684d371232d6dfe64ca3d", function(error, dataset) {
   if (error) {
     console.log(error);
   } else {
     console.log(dataset);
+    var dataArray = [];
+    dataArray.push(dataset);
+    console.log(dataArray);
     d3.select("body").selectAll("p")
-    .data(dataset)
+    .data(dataArray)
     .enter().append("p")
     .text(function(d) {
-      return (d.Food + ", " + d.Deliciousness);
+      return (d.success);
     });
   }
 });
+
 
 
 // d3.select("body").selectAll("p")

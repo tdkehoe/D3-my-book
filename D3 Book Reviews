@@ -5,4 +5,9 @@ This is the best beginner book. Murray assumes you know nothing. The book is a t
 
 _Data Visualization with D3.js Cookbook_, by Nick Qi Zhu, pages 23-38.
 
-This is a good advanced book. 
+This is a good advanced book.
+
+
+_D3.js in Action_, by Elijah
+This book throws advanced topics at the reader in chapter 1. The "hello world" first D3 app, 40 pages into the book (!), is complex, with many methods, including animations.
+It uses analogies to explain concepts that could be demonstrated without analogies.

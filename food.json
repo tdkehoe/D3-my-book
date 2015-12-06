@@ -1,7 +1,7 @@
 [
   {
-    "Food": "Apples",
-    "Deliciousness": 9
+    "key1": "value1",
+    "key2": 9
   },
   {
     "Food": "Green Beans",
