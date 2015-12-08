@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Lucy",
+    "techSkills" :   [
+      {
+        "subject": "CRUD exam",
+        "score": 10
+      },
+      {
+        "subject": "OOP exam",
+        "score": 5
+      },
+      {
+        "subject": "OAuth 2",
+        "score": 7
+      },
+      {
+        "subject": "Angular",
+        "score": 3
+      }
+    ],
+    "socialSkills" : [
+      {
+        "subject": "Design",
+        "score": 10
+      },
+      {
+        "subject": "Pair Programming",
+        "score": 5
+      },
+      {
+        "subject": "Helping Others",
+        "score": 7
+      },
+      {
+        "subject": "Extracurricular Learning",
+        "score": 3
+      },
+      {
+        "subject": "Asking Good Questions",
+        "score": 7
+      },
+      {
+        "subject": "You Made Me Laugh",
+        "score": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "CRUD exam",
+    "score": 10,
+    "classAverage": 5
+  },
+  {
+    "subject": "OOP exam",
+    "score": 5,
+    "classAverage": 6
+  },
+  {
+    "subject": "OAuth 2",
+    "score": 7,
+    "classAverage": 4
+  },
+  {
+    "subject": "Angular",
+    "score": 3,
+    "classAverage": 5
+  }
+]
