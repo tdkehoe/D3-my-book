@@ -1,0 +1,52 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  padding-top: 40px;
+  position: relative;
+  width: 960px;
+}
+
+button {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.techSkills { font: 10px sans-serif; }
+.techSkills .marker { stroke: #000; stroke-width: 2px; }
+.techSkills .tick line { stroke: #666; stroke-width: .5px; }
+.techSkills .range.s0 { fill: #eee; }
+.techSkills .range.s1 { fill: #ddd; }
+.techSkills .range.s2 { fill: #ccc; }
+.techSkills .measure.s0 { fill: blue; }
+.techSkills .measure.s1 { fill: lightsteelblue; }
+.techSkills .measure.s2 { fill: green; }
+.techSkills .measure.s3 { fill: red; }
+.techSkills .title { font-size: 14px; font-weight: bold; }
+.techSkills .subtitle { fill: #999; }
+
+.socialSkills { font: 10px sans-serif; }
+.socialSkills .marker { stroke: #000; stroke-width: 2px; }
+.socialSkills .tick line { stroke: #666; stroke-width: .5px; }
+.socialSkills .range.s0 { fill: #eee; }
+.socialSkills .range.s1 { fill: #ddd; }
+.socialSkills .range.s2 { fill: #ccc; }
+.socialSkills .measure.s0 { fill: green; }
+.socialSkills .measure.s1 { fill: lightsteelblue; }
+.socialSkills .measure.s2 { fill: green; }
+.socialSkills .measure.s3 { fill: red; }
+.socialSkills .title { font-size: 14px; font-weight: bold; }
+.socialSkills .subtitle { fill: #999; }
+
+.tmgmtSkills { font: 10px sans-serif; }
+.tmgmtSkills .marker { stroke: #000; stroke-width: 2px; }
+.tmgmtSkills .tick line { stroke: #666; stroke-width: .5px; }
+.tmgmtSkills .range.s0 { fill: #eee; }
+.tmgmtSkills .range.s1 { fill: #ddd; }
+.tmgmtSkills .range.s2 { fill: #ccc; }
+.tmgmtSkills .measure.s0 { fill: red; }
+.tmgmtSkills .measure.s1 { fill: lightsteelblue; }
+.tmgmtSkills .measure.s2 { fill: green; }
+.tmgmtSkills .measure.s3 { fill: red; }
+.tmgmtSkills .title { font-size: 14px; font-weight: bold; }
+.tmgmtSkills .subtitle { fill: #999; }

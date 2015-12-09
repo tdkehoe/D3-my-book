@@ -56,4 +56,5 @@ d3.select("body")
 .attr("y", 20)
 .attr("width", 30)
 .attr("height", 30)
-.attr("fill", "red");
+.attr("fill", "red")
+;

@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "title":"CRUD Project",
+      "subtitle":"As measured in exams",
+      "ranges":[10],
+      "measures":[10],
+      "markers":[5]
+    },
+    {
+      "title":"OOP Exam",
+      "subtitle":"As measured in exams",
+      "ranges":[10],
+      "measures":[5],
+      "markers":[6]
+    },
+    {
+      "title":"OAuth 2",
+      "subtitle":"As measured in exams",
+      "ranges":[10],
+      "measures":[7],
+      "markers":[4]
+    },
+    {
+      "title":"Angular.js",
+      "subtitle":"As measured in exams",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    }
+  ],
+
+  [
+    {
+      "title":"Design",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[10],
+      "markers":[5]
+    },
+    {
+      "title":"Pair Programming",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[5],
+      "markers":[6]
+    },
+    {
+      "title":"Helping Others",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[7],
+      "markers":[4]
+    },
+    {
+      "title":"Extracurricular Learning",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    },
+    {
+      "title":"Asking Good Questions",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    },
+    {
+      "title":"You Made Me Laugh",
+      "subtitle":"As recognized by peers",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    }
+  ],
+
+  [
+    {
+      "title":"Solo Coding",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[10],
+      "markers":[5]
+    },
+    {
+      "title":"Pair Programming",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[5],
+      "markers":[6]
+    },
+    {
+      "title":"Giving Help",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[7],
+      "markers":[4]
+    },
+    {
+      "title":"Receiving Help",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    },
+    {
+      "title":"Reading Docs",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    },
+    {
+      "title":"Writing Docs",
+      "subtitle":"Self-reported daily",
+      "ranges":[10],
+      "measures":[3],
+      "markers":[5]
+    }
+  ]
+]
